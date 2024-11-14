@@ -4,7 +4,7 @@ Latihan Praktikum 1 Semantic HTML
 ## Tag `<html>` dan `<body>`
 1. Codingan 1:
 Tidak menyertakan tag `<html>` atau `<body>`. Struktur halaman dimulai langsung dengan `<header>`, sehingga tidak memenuhi standar HTML5.
-2, Codingan 2:
+2. Codingan 2:
 Menggunakan tag `<html>` dengan atribut `lang="en"` untuk menunjukkan bahasa halaman adalah bahasa Inggris, serta tag `<body>` yang membungkus seluruh elemen halaman (seperti `<header>`, `<nav>`, `<section>`, dan `<footer>`).
 
 ## Tag `<head>`
