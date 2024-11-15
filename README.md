@@ -1,3 +1,8 @@
+NAMA  : YULI NUR WAHYUDHA
+NIM   : 2205101070
+KELAS : TIF-5D
+
+
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
 
